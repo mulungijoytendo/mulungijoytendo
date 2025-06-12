@@ -1,21 +1,40 @@
-## Hi, I’m Mulungi Joy Tendo  👋
 
-   A passionate UI/UX designer and frontend developer focused on crafting seamless, engaging experiences across web and mobile platforms.
-  
-  With a strong foundation in user-centered design and front-end technologies, I specialize in creating intuitive, visually compelling interfaces that not only look good but perform flawlessly. My experience spans eCommerce solutions, book applications built with Django, and various modern digital products that blend function with form.
-  
-  Driven by curiosity and a desire to grow, I’m constantly exploring better ways to design and build. Whether it’s improving the user flow of a checkout page or developing a responsive mobile app, I bring creativity, precision, and empathy to every project.
-  
-  When I’m not designing or coding, I love learning from design trends, enhancing my skills through real-world projects, or collaborating with other creatives.
-  
-  ⚡ Fun Facts:
-  🎨 I enjoy redesigning everyday apps just for fun.
-  📱 I'm deeply inspired by minimal, user-first mobile experiences.
-  📚 I love discovering new tools and techniques that elevate both design and development.
+Hi, I’m Mulungi Joy Tendo 👋
+  Frontend Developer | Web & Mobile Designer
 
+I'm a passionate UI/UX designer and frontend developer dedicated to crafting seamless, engaging experiences across web and mobile platforms.
 
-- 🔭 I’m currently open to ... working
-- 🌱 I’m currently learning ...  product design
-- 📫 How to reach me: ... mtjendo@gmail.com
+With a strong foundation in user-centered design and front-end technologies, I specialize in creating intuitive, visually compelling interfaces that not only look great but also deliver high performance. My experience includes building eCommerce platforms, Django-based book applications, and a variety of digital products that blend design with functionality.
 
+I thrive on solving real-world problems through design thinking and clean code. Whether it’s enhancing the user flow of a checkout experience or developing a fully responsive mobile app, I bring creativity, empathy, and technical precision to every project.
+
+💡 What I Do:
+     UI/UX Design: User research, wireframing, high-fidelity UI design, interactive prototyping, and design systems
+   
+   💻 Frontend Development: Building responsive web interfaces using modern frameworks and tools
+   
+   📱 Mobile App Development: Designing and developing cross-platform mobile apps
+
+💼 Tech Stack
+   Design:
+   Figma • Prototyping • Wireframing • Design Systems • User Research
+   
+   Frontend Development:
+   HTML • CSS • JavaScript • React • React Native • Tailwind CSS • Bootstrap • next.js
+   
+   Backend & Tools:
+   Django • Firebase • Git & GitHub • REST APIs • VS Code • Postman
+
+⚡ Fun Facts
+       I enjoy redesigning everyday apps just for fun.
+       I'm deeply inspired by clean, user-first mobile experiences.
+       I love exploring new tools and techniques that elevate both design and development.
+
+📌 Currently
+       Open to: work and collaborative projects
+       Learning: product design & machine learning.
+       Reach me at: mtjendo@gmail.com.
+
+ 
+  
 
