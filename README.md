@@ -30,16 +30,7 @@ I thrive on solving real-world problems through design thinking and clean code. 
    Django • Firebase • Git & GitHub • REST APIs • VS Code • Postman
    
 
-⚡ Fun Facts
-       I enjoy redesigning everyday apps just for fun.
-       I'm deeply inspired by clean, user-first mobile experiences.
-       I love exploring new tools and techniques that elevate both design and development.
-       
 
-📌 Currently
-       Open to: work and collaborative projects
-       Learning: product design & machine learning.
-       Reach me at: mtjendo@gmail.com.
        
 
  
